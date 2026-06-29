@@ -1,0 +1,21 @@
+{
+  "name": "Runion",
+  "short_name": "Runion",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07100c",
+  "theme_color": "#07100c",
+  "description": "Modern running app with tracking, an AI coach, training plans, community features, and health insights.",
+  "categories": ["fitness", "health", "sports"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

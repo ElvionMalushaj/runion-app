@@ -1,0 +1,54 @@
+{
+  "users": {
+    "u_lena": {
+      "displayName": "Lena Mueller",
+      "locale": "en-US",
+      "privacy": {
+        "profileVisibility": "friends",
+        "activityVisibility": "friends",
+        "analyticsConsent": true
+      },
+      "healthConnections": {
+        "appleHealth": true,
+        "healthConnect": true,
+        "garmin": false,
+        "polar": false
+      }
+    }
+  },
+  "runs": [
+    {
+      "id": "r_101",
+      "userId": "u_lena",
+      "title": "Morning Run",
+      "distanceMeters": 8200,
+      "durationSeconds": 2490,
+      "avgHeartRate": 151,
+      "calories": 548,
+      "elevationGainMeters": 44,
+      "visibility": "friends",
+      "source": "phone"
+    },
+    {
+      "id": "r_100",
+      "userId": "u_lena",
+      "title": "Intervalle",
+      "distanceMeters": 6400,
+      "durationSeconds": 2040,
+      "avgHeartRate": 164,
+      "calories": 426,
+      "elevationGainMeters": 22,
+      "visibility": "private",
+      "source": "watch"
+    }
+  ],
+  "trainingPlans": [
+    {
+      "id": "tp_10k_intermediate",
+      "type": "10k",
+      "level": "intermediate",
+      "weeks": 10,
+      "goal": "Sub 52"
+    }
+  ]
+}

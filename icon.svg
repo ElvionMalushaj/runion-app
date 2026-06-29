@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Runion App-Icon</title>
+  <desc id="desc">A dark app icon with a bright running route.</desc>
+  <rect width="512" height="512" rx="112" fill="#101513"/>
+  <path d="M90 345 C150 260 196 282 246 214 C299 142 367 144 422 84" fill="none" stroke="#76e093" stroke-width="34" stroke-linecap="round"/>
+  <path d="M90 345 C150 260 196 282 246 214 C299 142 367 144 422 84" fill="none" stroke="#d9ffe1" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="90" cy="345" r="34" fill="#6bb8ff" stroke="#f3f7f1" stroke-width="12"/>
+  <circle cx="422" cy="84" r="34" fill="#f6c36a" stroke="#f3f7f1" stroke-width="12"/>
+  <path d="M164 390 h184" stroke="#f3f7f1" stroke-width="22" stroke-linecap="round" opacity=".9"/>
+  <path d="M201 430 h110" stroke="#9fb0a7" stroke-width="18" stroke-linecap="round"/>
+</svg>

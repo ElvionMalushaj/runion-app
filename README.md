@@ -1,24 +1,24 @@
-# 🏃 GPG Running App
+#   Running App
 
 Eine moderne Lauf-App zur Aufzeichnung, Analyse und Verbesserung deiner Laufeinheiten. Die App bietet GPS-Tracking, Trainingsstatistiken und eine intuitive Benutzeroberfläche – inspiriert von bekannten Laufplattformen wie Adidas Running und Nike Run Club.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📍 GPS-Live-Tracking
-- 📏 Distanzmessung
-- ⏱️ Zeit- und Paceberechnung
-- 📊 Detaillierte Laufstatistiken
-- 🏅 Persönliche Bestzeiten
-- 📈 Trainingsfortschritt
-- 🌙 Modernes Dark-Mode-Design
-- 📱 Optimiert für mobile Endgeräte
-- 🎯 Ziel- und Fortschrittsverfolgung
+-  GPS-Live-Tracking
+-  Distanzmessung
+-  Zeit- und Paceberechnung
+-  Detaillierte Laufstatistiken
+-  Persönliche Bestzeiten
+-  Trainingsfortschritt
+-  Modernes Dark-Mode-Design
+-  Optimiert für mobile Endgeräte
+-  Ziel- und Fortschrittsverfolgung
 
 ---
 
-## 🛠️ Technologien
+##  Technologien
 
 - React Native / Expo
 - TypeScript
@@ -28,7 +28,7 @@ Eine moderne Lauf-App zur Aufzeichnung, Analyse und Verbesserung deiner Laufeinh
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Repository klonen:
 
@@ -56,7 +56,7 @@ npm start
 
 ---
 
-## 📂 Projektstruktur
+##  Projektstruktur
 
 ```
 src/
@@ -71,25 +71,25 @@ src/
 
 ---
 
-## 🎯 Geplante Features
+##  Geplante Features
 
-- 🤖 KI-Laufcoach
-- 🗺️ Live-Kartenansicht
-- ❤️ Apple Health & Google Health Integration
-- 🏃 Individuelle Trainingspläne
-- 🏅 Challenges & Erfolge
-- 👥 Community-Funktionen
-- ⌚ Smartwatch-Unterstützung
-- ☁️ Cloud-Synchronisation
+-  KI-Laufcoach
+-  Live-Kartenansicht
+-  Apple Health & Google Health Integration
+-  Individuelle Trainingspläne
+-  Challenges & Erfolge
+-  Community-Funktionen
+-  Smartwatch-Unterstützung
+-  Cloud-Synchronisation
 
 ---
 
-## 🤝 Mitwirken
+##  Mitwirken
 
 Beiträge, Verbesserungsvorschläge und Pull Requests sind jederzeit willkommen.
 
 ---
 
-## 📄 Lizenz
+##  Lizenz
 
 Dieses Projekt dient zu Lern- und Entwicklungszwecken.
